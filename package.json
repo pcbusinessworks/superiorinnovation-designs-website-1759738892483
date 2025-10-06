@@ -1,0 +1,17 @@
+{
+  "name": "superiorinnovation-designs",
+  "version": "1.0.0",
+  "description": "At SuperiorInnovation Designs, we specialize in delivering innovative it infrastructure that drive growth and success for our clients.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build process needed for static site'"
+  },
+  "keywords": [
+    "website",
+    "business",
+    "template"
+  ],
+  "author": "SuperiorInnovation Designs",
+  "license": "MIT"
+}
